@@ -1,0 +1,12 @@
+../Core/Src/ui.c:39:6:uiDisplayBasic	16	static
+../Core/Src/ui.c:72:13:printDelay	40	static
+../Core/Src/ui.c:80:13:printFeedback	40	static
+../Core/Src/ui.c:88:13:printVolume	40	static
+../Core/Src/ui.c:96:13:printDepth	40	static
+../Core/Src/ui.c:107:6:uiSliderDelay	72	static
+../Core/Src/ui.c:144:6:uiSliderFeed	72	static
+../Core/Src/ui.c:178:6:uiSliderVolume	80	static
+../Core/Src/ui.c:213:6:uiSliderFlanger	80	static
+../Core/Src/ui.c:252:6:uiDisplayInputLevel	80	static
+../Core/Src/ui.c:282:6:uiDisplaySpectrum	24	static
+../Core/Src/ui.c:310:6:uiDisplayMaster	24	static

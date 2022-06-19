@@ -1,0 +1,16 @@
+../Core/Src/audio.c:176:7:Do_Comb0	24	static
+../Core/Src/audio.c:185:7:Do_Comb1	24	static
+../Core/Src/audio.c:193:7:Do_Comb2	24	static
+../Core/Src/audio.c:201:7:Do_Comb3	24	static
+../Core/Src/audio.c:211:7:Do_Allpass0	24	static
+../Core/Src/audio.c:221:7:Do_Allpass1	24	static
+../Core/Src/audio.c:230:7:Do_Allpass2	24	static
+../Core/Src/audio.c:242:7:Do_Reverb	32	static
+../Core/Src/audio.c:249:6:audioLoop	32	static
+../Core/Src/audio.c:308:13:accumulateInputLevels	24	static
+../Core/Src/audio.c:343:6:HAL_SAI_RxCpltCallback	16	static
+../Core/Src/audio.c:352:6:HAL_SAI_RxHalfCpltCallback	16	static
+../Core/Src/audio.c:363:14:readFromAudioScratch	24	static
+../Core/Src/audio.c:374:13:writeToAudioScratch	24	static
+../Core/Src/audio.c:412:7:processReverb	32	static
+../Core/Src/audio.c:434:13:processAudio	48	static
