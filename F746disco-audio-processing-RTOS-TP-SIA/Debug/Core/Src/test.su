@@ -1,0 +1,16 @@
+../Core/Src/test.c:74:6:test	8	static
+../Core/Src/test.c:122:13:testLED	8	static
+../Core/Src/test.c:132:13:testPushButton	8	static
+../Core/Src/test.c:142:13:testVCP	16	static
+../Core/Src/test.c:157:13:testUSART6	16	static
+../Core/Src/test.c:172:13:testQSPI	8	static
+../Core/Src/test.c:218:13:testSDRAM	8	static
+../Core/Src/test.c:248:13:testSDRAM_DMA	8	static
+../Core/Src/test.c:289:13:Fill_Buffer	32	static
+../Core/Src/test.c:299:13:Fill_Buffer32	32	static
+../Core/Src/test.c:314:16:Buffercmp	24	static
+../Core/Src/test.c:328:16:Buffercmp32	24	static
+../Core/Src/test.c:347:13:testLCD	48	static
+../Core/Src/test.c:403:13:testTouchscreen	56	static
+../Core/Src/test.c:444:13:testAUDIO	8	static
+../Core/Src/test.c:453:13:testCMSIS_DSP	408	static

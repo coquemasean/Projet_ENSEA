@@ -1,0 +1,4 @@
+../Core/Src/bsp/disco_sai.c:67:6:startAudioDMA	32	static
+../Core/Src/bsp/disco_sai.c:138:6:HAL_SAI_TxCpltCallback	16	static
+../Core/Src/bsp/disco_sai.c:141:6:HAL_SAI_TxHalfCpltCallback	16	static
+../Core/Src/bsp/disco_sai.c:144:6:HAL_SAI_ErrorCallback	16	static
